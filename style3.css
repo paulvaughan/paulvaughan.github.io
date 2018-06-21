@@ -1,0 +1,12 @@
+body {
+	background-image: url(hole.jpg);
+	background-size: cover;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-size: 4em;
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+}

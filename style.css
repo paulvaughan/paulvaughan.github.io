@@ -1,0 +1,12 @@
+body {
+	background-image: url(grow.jpg);
+	background-size: cover;
+}
+
+h1 {
+	font-family: Amatic SC;
+	font-size: 8em;
+	color: grey;
+	text-align: center;
+	margin-top: 10px;
+}

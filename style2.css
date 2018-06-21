@@ -1,0 +1,12 @@
+body {
+	background-image: url(why.jpg);
+	background-size: cover;
+}
+
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 5em;
+	color: black;
+	text-align: center;
+	margin-top: 10px;
+}
